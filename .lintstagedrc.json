@@ -1,0 +1,6 @@
+{
+  "*.ts?(x)": [
+    "biome check --apply",
+    "prettier --write"
+  ]
+}
